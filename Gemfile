@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'line-bot-api'
+gem 'sinatra'
+gem 'pry'
+gem 'redis'
+gem 'awesome_print'
+gem 'config'
+gem 'rspec'
+gem 'mongoid'
