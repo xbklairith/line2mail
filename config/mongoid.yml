@@ -1,0 +1,11 @@
+
+development:
+  clients:
+    default:
+      database: heroku_3qtxsbl2
+      hosts:
+        - ds131698.mlab.com:31698
+      options:
+        user: heroku_3qtxsbl2
+        # The password of the user for authentication.
+        password: vg5ia9iqcg48837cqr7un3jckl

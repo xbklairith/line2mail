@@ -1,0 +1,11 @@
+
+line:
+  channel_secret: "a79bc145c3e0e0b3a32f34b1eb008f28"
+  channel_token: "0V4SDoci7UueZJrFR+u/7CdGcvSmcsr5QkWPT5BnToVVHjwBkfeCgkzer06oYyDjvHfve2QJ+nkqxgYrYgH+0RYNCgIK847r5uWXu0KmmFtMoO1YtPw0qiq0y66qx5ZANMxzDtpqFSosjL7uio0qMwdB04t89/1O/w1cDnyilFU="
+
+mail: 
+  smtp_server: smtp.gmail.com
+  port: 587
+  username: from.linechat@gmail.com
+  password: ",uLkl9iN"
+  auth_mode: plain
