@@ -1,0 +1,11 @@
+
+development:
+  clients:
+    default:
+      database: dbname
+      hosts:
+        - hostname:port
+      options:
+        user: username
+        # The password of the user for authentication.
+        password: password

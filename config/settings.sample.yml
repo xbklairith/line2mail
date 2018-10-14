@@ -1,0 +1,11 @@
+
+line:
+  channel_secret: "xxx"
+  channel_token: "xxx"
+
+mail: 
+  smtp_server: smtp.gmail.com
+  port: 587
+  username: email@email.com
+  password: "password"
+  auth_mode: plain
